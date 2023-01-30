@@ -1,0 +1,75 @@
+h1{
+    font-family: 'Lora', serif;
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.game-image {
+    display:flex;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Lora', serif;
+    color:blue;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+button:hover {
+    color: purple;
+    text-align: center;
+}
+
+table {
+    display:flex;
+    justify-content: center;
+}
+
+td {
+    height: 150px;
+    width: 250px;
+    text-align: center;
+    border: 10cm;
+    font-size: xx-large;
+}
+.rules-header {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+body{
+    background-image: url(https://cdn.shopify.com/s/files/1/0126/9533/9072/products/product-image-842279316_2000x.jpg?v=1584466534);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+}
+.game-rules {
+    display:flex;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+    align-items: center;
+    color:black
+}
+
+ul {
+    list-style-type: "🎵";
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
